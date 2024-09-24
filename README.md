@@ -1,16 +1,18 @@
-# prakpemmob_tugaspert3
+# Tugas Pertemuan 3
 
-Mengimplementasikan routes, side menu, login, dan local storage
+Nama : Aura Devany Salsabila Bachtiar
 
-## Getting Started
+NIM : H1D022015
 
-This project is a starting point for a Flutter application.
+Shift Baru: Shift C
 
-A few resources to get you started if this is your first Flutter project:
+### Mengimplementasikan routes, side menu, login, dan local storage
+...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Lampiran Login](login_page.png)
+![Lampiran Sidemenu](side_menu.png)
+![Lampiran Home](home_page.png)
+![Lampiran About](about_page.png)
+![Lampiran PopUp Login](popup_login.png)
+![Lampiran PopUp Logout](popup.png)
