@@ -15,4 +15,4 @@ Shift Baru: Shift C
 ![Lampiran Home](home_page.png)
 ![Lampiran About](about_page.png)
 ![Lampiran PopUp Login](popup_login.png)
-![Lampiran PopUp Logout](popup.png)
+![Lampiran PopUp Logout](popup_logout.png)
